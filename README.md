@@ -1,2 +1,2 @@
-# RandomChildName
-Send random child name(s) via pushbullet
+# RandomChildNames
+Send random child names via pushbullet.
